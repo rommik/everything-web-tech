@@ -20,6 +20,11 @@ My List of Resources related to Node, JavaScript, AngularJs and other Web Techno
 <li>http://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture - Best Practices for Building a Microservice Architecture by Vinay Sahni. An excellent article that provides tips and guidelines on how to build microservices in an organization.</li>
 </ol>
 
+<h3>OS Related</h3>
+<ol> 
+<li>https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0 - Introduction to Linux by Linux Foundation at EDX.org.  A free course</li></ol>
+
+
 <h3>Other</h3>
 <ol> 
 <li>http://highscalability.com/ - Excellent site, maintained by Todd Hoff, about anything related to highly available, scalable, massive systems. I strongly recommend you check it  every friday for his "Stuff the Internet Says on Scalability"</li></ol>
