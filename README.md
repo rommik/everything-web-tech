@@ -25,6 +25,8 @@ My List of Resources related to Node, JavaScript, AngularJs and other Web Techno
 <h3>Architecture</h3>
 <ol> 
 <li>http://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture - Best Practices for Building a Microservice Architecture by Vinay Sahni. An excellent article that provides tips and guidelines on how to build microservices in an organization.</li>
+
+<li>https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design - S.O.L.I.D. The five principles of OOP Design.</li>
 </ol>
 
 <h3>OS Related</h3>
