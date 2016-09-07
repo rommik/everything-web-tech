@@ -6,6 +6,8 @@ My List of Resources related to Node, JavaScript, AngularJs and other Web Techno
 <ol> 
 <li>http://jstherightway.org/#getting-started - JavaScript The Right Way is a guide for new developers (and returning ones) to JavaScript. This blog covers all important parts of JS and provides links to more details.</li>
 <li>http://es6-features.org/ - ES6 vs ES5, a list of differences and changes. </li>
+
+<li>http://stackoverflow.com/questions/7452341/what-does-void-0-mean - Void 0</li>
 </ol>
 
 <h3>Node.Js Related</h3>
