@@ -39,4 +39,6 @@ My List of Resources related to Node, JavaScript, AngularJs and other Web Techno
 
 <h3>Other</h3>
 <ol> 
-<li>http://highscalability.com/ - Excellent site, maintained by Todd Hoff, about anything related to highly available, scalable, massive systems. I strongly recommend you check it  every friday for his "Stuff the Internet Says on Scalability"</li></ol>
+<li>http://highscalability.com/ - Excellent site, maintained by Todd Hoff, about anything related to highly available, scalable, massive systems. I strongly recommend you check it  every friday for his "Stuff the Internet Says on Scalability"</li>
+<li>http://bigocheatsheet.com/ - Big O Cheat Sheet</li>
+</ol>
