@@ -40,7 +40,10 @@ James Hamilton – Windows Live Services Platform </li>
 <ol> 
 <li>https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0 - Introduction to Linux by Linux Foundation at EDX.org.  A free course</li></ol>
 
-
+<h3>Talks</h3>
+<ol>
+<li>https://www.youtube.com/watch?v=kb-m2fasdDY - GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney</li>
+</ol>
 <h3>Other</h3>
 <ol> 
 <li>http://highscalability.com/ - Excellent site, maintained by Todd Hoff, about anything related to highly available, scalable, massive systems. I strongly recommend you check it  every friday for his "Stuff the Internet Says on Scalability"</li>
