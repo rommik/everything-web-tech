@@ -43,6 +43,7 @@ James Hamilton – Windows Live Services Platform </li>
 <h3>Talks</h3>
 <ol>
 <li>https://www.youtube.com/watch?v=kb-m2fasdDY - GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney</li>
+<li>https://www.youtube.com/watch?v=Nltqi7ODZTM - Robert C Martin - Clean Architecture </li>
 </ol>
 <h3>Other</h3>
 <ol> 
