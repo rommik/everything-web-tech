@@ -8,6 +8,7 @@ My List of Resources related to Node, JavaScript, AngularJs and other Web Techno
 <li>http://es6-features.org/ - ES6 vs ES5, a list of differences and changes. </li>
 
 <li>http://stackoverflow.com/questions/7452341/what-does-void-0-mean - Void 0</li>
+<li> https://www.udacity.com/course/javascript-promises--ud898 -JavaScript Promises, a Free Udactiy Course.</li>
 </ol>
 
 <h3>Node.Js Related</h3>
