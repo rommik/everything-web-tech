@@ -8,7 +8,8 @@ My List of Resources related to Node, JavaScript, AngularJs and other Web Techno
 <li>http://es6-features.org/ - ES6 vs ES5, a list of differences and changes. </li>
 
 <li>http://stackoverflow.com/questions/7452341/what-does-void-0-mean - Void 0</li>
-<li> https://www.udacity.com/course/javascript-promises--ud898 -JavaScript Promises, a Free Udactiy Course.</li>
+<li>https://www.udacity.com/course/javascript-promises--ud898 - JavaScript Promises, a Free Udactiy Course.</li>
+<li>https://developers.google.com/web/fundamentals/getting-started/primers/promises - Getting Started with JavaScript Promises.</li>
 </ol>
 
 <h3>Node.Js Related</h3>
@@ -23,7 +24,9 @@ My List of Resources related to Node, JavaScript, AngularJs and other Web Techno
 
 <h3>Blogs</h3>
 <ol> 
-<li>https://codeblog.jonskeet.uk/ - Jon Skeet's coding blog. Topics on OOP, Design Patterns, C#, Java, and more. Jon Skeet is also active on Stack Overflow and provides quality answers on a lot of deep technical questions.</li></ol>
+<li>https://codeblog.jonskeet.uk/ - Jon Skeet's coding blog. Topics on OOP, Design Patterns, C#, Java, and more. Jon Skeet is also active on Stack Overflow and provides quality answers on a lot of deep technical questions.</li>
+<li>https://jakearchibald.com/ - Jack Archimbald, Google Chrome Advocate. JavaScript related blogs.
+</ol>
 
 <h3>Architecture</h3>
 <ol> 
