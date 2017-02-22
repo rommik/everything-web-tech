@@ -16,6 +16,7 @@ My List of Resources related to Node, JavaScript, AngularJs and other Web Techno
 <ol> 
 <li>http://callbackhell.com/ - Great article about Call Backs, issues they can cause, and solutions to avoid the "call back hell"</li>
 <li>https://www.youtube.com/watch?v=czmulJ9NBP0 - Node.js Tutorials: From Zero to Hero with Nodejs</li>
+<li> https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/ - 10 Best Practices for Writing Node.js REST APIs </li>
 </ol>
 
 <h3>AngularJs Related</h3>
