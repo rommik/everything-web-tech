@@ -1,10 +1,13 @@
 # everything-web-tech
 My List of Resources related to Node, JavaScript, AngularJs and other Web Technologies
 
+<h2>DevOps </h2>
 <h3>Docker, Containers, and Orchestration </h3>
 <ol>
 <li>https://github.com/vfarcic/docker-flow-proxy - Docker Reverse Proxy with autoconfiguration.</li>
 </ol>
+
+<h2>Languages & Frameworks </h2>
 <h3>JavaScript</h3>
 <ol> 
 <li>http://jstherightway.org/#getting-started - JavaScript The Right Way is a guide for new developers (and returning ones) to JavaScript. This blog covers all important parts of JS and provides links to more details.</li>
@@ -26,11 +29,15 @@ My List of Resources related to Node, JavaScript, AngularJs and other Web Techno
 <ol> 
 <li>http://andyshora.com/unit-testing-best-practices-angularjs.html -Andy Shora discusses the importance of Unit Testing and End to End testing in your AngularJs applications.</li></ol>
 
+<h2> Blogs, Architecture, Theory, and other topics </h2>
+
 <h3>Blogs</h3>
 <ol> 
 <li>https://codeblog.jonskeet.uk/ - Jon Skeet's coding blog. Topics on OOP, Design Patterns, C#, Java, and more. Jon Skeet is also active on Stack Overflow and provides quality answers on a lot of deep technical questions.</li>
 <li>https://jakearchibald.com/ - Jack Archimbald, Google Chrome Advocate. JavaScript related blogs.
 </ol>
+
+
 
 <h3>Architecture</h3>
 <ol> 
